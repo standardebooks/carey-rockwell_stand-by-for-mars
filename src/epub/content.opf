@@ -30,13 +30,6 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Stand by for Mars!</dc:title>
 		<meta property="file-as" refines="#title">Stand by for Mars!</meta>
-		<meta property="title-type" refines="#title">main</meta>
-		<dc:title id="subtitle">A Tom Corbett Space Cadet Adventure</dc:title>
-		<meta property="file-as" refines="#subtitle">Tom Corbett Space Cadet Adventure, A</meta>
-		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">Stand by for Mars!: A Tom Corbett Space Cadet Adventure</dc:title>
-		<meta property="file-as" refines="#fulltitle">Stand by for Mars!</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Astronauts -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-3">Interplanetary voyages -- Juvenile fiction</dc:subject>
@@ -52,14 +45,14 @@
 		<dc:description id="description">Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Inspired by Robert A. Heinlein’s 1948 novel &lt;i&gt;Space Cadet&lt;/i&gt;, the Tom Corbett series started as tv show in 1950. It stayed on the air for 5 years and, among other things, spawned a series of novels published by Grosset &amp;amp; Dunlap. Written by unknown authors, they were published under the pseudonym Carey Rockwell, with Willy Ley (the tv show’s technical director) listed as technical advisor.&lt;/p&gt;
+			&lt;p&gt;Inspired by Robert A. Heinlein’s 1948 novel &lt;i&gt;Space Cadet&lt;/i&gt;, the Tom Corbett series started as a TV show in 1950. It stayed on the air for five years and, among other things, spawned a series of novels published by Grosset &amp;amp; Dunlap. Written by unknown authors, they were published under the pseudonym Carey Rockwell, with Willy Ley (the TV show’s technical director) listed as technical advisor.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Stand by for Mars!&lt;/i&gt; is the first of eight novels written between 1952 and 1956. It features a young Tom Corbett who is trying to fulfill his dream of becoming a Space Cadet on his way to joining the Solar Guard. But interpersonal conflicts stand in his way. Tom, along with his unit-mates Astro and Roger Manning must find a way past their difficulties or else risk being washed out. Their adventure takes them from the rigours of the Academy on Earth to the rugged and deadly deserts of Mars where they need to learn that only by working together can they hope to survive.&lt;/p&gt;
-			&lt;p&gt;An entire generation grew up on the adventures of Tom Corbett — it spawned radio shows, music recordings and a whole series of toys and tie-ins. Fans still maintain a Tom Corbett Space Cadet website (solarguard.com) and have held reunions as recently as 2006. &lt;i&gt;Stand by for Mars!&lt;/i&gt; is a classic example of the space-crazy juvenile fiction of it’s era.&lt;/p&gt;
+			&lt;p&gt;An entire generation grew up on the adventures of Tom Corbett—it spawned radio shows, music recordings and a whole series of toys and tie-ins. Fans still maintain a <a href="http://www.solarguard.com/">Tom Corbett Space Cadet website</a> and have held reunions as recently as 2006. &lt;i&gt;Stand by for Mars!&lt;/i&gt; is a classic example of the space-crazy juvenile fiction of its era.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19526</dc:source>
-		<dc:source>http://durendal.org/tcsm/</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID43efed53d919f</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tom_Corbett,_Space_Cadet</meta>
@@ -83,8 +76,8 @@
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">B Timothy Keith</dc:contributor>
-		<meta property="file-as" refines="#producer-1">Keith, B Timothy</meta>
+		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://astart.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
