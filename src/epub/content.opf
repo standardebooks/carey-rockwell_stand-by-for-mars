@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/carey-rockwell/stand-by-for-mars</dc:identifier>
 		<dc:date>2019-01-24T03:59:21Z</dc:date>
-		<meta property="dcterms:modified">2019-01-24T03:59:21Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2019-02-17T17:55:48Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,7 +53,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19526</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID43efed53d919f</dc:source>
-		<meta property="se:word-count">58192</meta>
+		<meta property="se:word-count">58193</meta>
 		<meta property="se:reading-ease.flesch">75.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tom_Corbett,_Space_Cadet</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/carey-rockwell_stand-by-for-mars</meta>
