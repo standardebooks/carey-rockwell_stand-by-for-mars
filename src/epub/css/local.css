@@ -19,7 +19,3 @@
 [epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
-
-[epub|type~="z3998:song"] + p{
-	text-indent: 0;
-}
