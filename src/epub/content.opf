@@ -47,6 +47,9 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Science Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Tom Corbett, Space Cadet</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta property="schema:abstract">Young Tom Corbett finally realizes his dream of becoming a Space Cadet but soon he and his classmates find themselves fighting to stay alive in the harsh Martian desert.</meta>
 		<dc:description>
 			&lt;p&gt;Inspired by Robert A. Heinlein’s 1948 novel &lt;i&gt;Space Cadet&lt;/i&gt;, the Tom Corbett series started as a TV show in 1950. It stayed on the air for five years and, among other things, spawned a series of novels published by Grosset &amp;amp; Dunlap. Written by unknown authors, they were published under the pseudonym &lt;a href="https://standardebooks.org/ebooks/carey-rockwell"&gt;Carey Rockwell&lt;/a&gt;, with Willy Ley (the TV show’s technical director) listed as technical advisor.&lt;/p&gt;
